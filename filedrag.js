@@ -2,6 +2,7 @@
 
 * https://www.sitepoint.com/html5-file-drag-and-drop/
 
+
 */
 
 // call initialization file

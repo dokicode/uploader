@@ -1,5 +1,5 @@
 /**
- * Created by remi on 17/01/15.
+ * Created by remi on 17/01/15. dsgdsg
  http://christopher5106.github.io/web/2015/12/13/HTML5-file-image-upload-and-resizing-javascript-with-progress-bar.html
  */
 //(function () {
